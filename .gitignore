@@ -121,4 +121,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+frontend/assets/js
+
 # End of https://www.toptal.com/developers/gitignore/api/node
